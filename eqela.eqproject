@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Kyle
+#
+
+projectname: Kyle
+vendorid: com.mycompany
+mainmodule: com.mycompany.kyle
